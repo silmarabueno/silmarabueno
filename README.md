@@ -22,6 +22,4 @@ Silmara Bueno
     
  
 
-  ![Snake animation](https://github.com/rafaballerini/silmarabueno/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  ![Snake animation](https://github.com/silmarabueno/blob/output/github-contribution-grid-snake.svg)
